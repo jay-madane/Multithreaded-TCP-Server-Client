@@ -1,0 +1,1 @@
+Multithreaded Server: A server having more than one thread is known as Multithreaded Server. When a client sends a request, a thread is generated through which the user can communicate with the server. We are required to generate multiple threads to accept multiple requests from multiple clients at the same time.
